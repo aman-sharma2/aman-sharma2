@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Sharma
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Python for Data Science.
+- 👀 I’m interested in frontend web development.
+- 🌱 I’m currently learning ReactJS and Java for web development.
 - 📫 You can reach me via mail- sharmahp.aman@gmail.com
 
 <!---
